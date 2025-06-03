@@ -221,7 +221,7 @@ def show_prediction(data):
 - **Prioritize quality sleep** and try to establish a calming evening routine.
 - **Stay hydrated** and avoid excess caffeine or sugar.
         """)
-        st.markdown("**Źródła i inspiracje:**")
+        st.markdown("**Sources and inspirations:**")
         st.markdown("""
 - [Effects of Overstimulation (healyournervoussystem.com)](https://healyournervoussystem.com/effects-of-overstimulation/)
 - [What Is Overstimulation? (Time)](https://time.com/7213816/what-is-overstimulated-definition/)
